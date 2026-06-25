@@ -6,4 +6,4 @@
 - 📫 How to reach me: nithinmukka51234@gmail.com 
 
 ## Projects
-- [git-learning-log](https://github.com/NithinMukka/Git-Fundamentals) - My first Git project tracking a learning log
+- [Movie-API](https://github.com/NithinMukka/Movie-API) - Building a Scalable Movie Booking API
