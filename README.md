@@ -1,6 +1,6 @@
 # Hi, I'm Nithin Mukka 👋
 
-I am a software developer with a strong interest in backend development, building scalable web services, and refining my skills in software architecture and version control. I enjoy working with different programming paradigms, ranging from low-level systems in C++ to modern web frameworks in Python and TypeScript.
+I am a software developer with a strong interest in backend development, building scalable web services, and refining my skills in software architecture and version control. I enjoy working with different programming paradigms, ranging from low-level systems in C++ to modern web frameworks in Python and Javacript.
 
 ---
 
