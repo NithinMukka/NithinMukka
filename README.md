@@ -28,9 +28,6 @@ Here are a few of the projects I've worked on that showcase my development focus
 - An object-oriented library management system designed to handle inventory, user tracking, and book status.
 - Explores low-level details, memory management, and clean console-based execution.
 
-#### ⚽ [Profoot](https://github.com/NithinMukka/Profoot) (JavaScript)
-- A JavaScript-based application showcasing structured frontend logic or core scripting.
-
 ---
 
 ### 📊 GitHub Stats
