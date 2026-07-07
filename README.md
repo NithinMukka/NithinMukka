@@ -24,7 +24,7 @@ Here are a few of the projects I've worked on that showcase my development focus
 - A scalable backend system built for movie booking and scheduling management.
 - Focuses on clean routing, data persistence, and API endpoint optimization.
 
-#### 📚 [Movie-booking UI](https://github.com/NithinMukka/Movie-booking-UI) (C++)
+#### 📚 [Movie-booking UI](https://github.com/NithinMukka/Movie-booking-UI) (Next.js)
 - A BookMyShow-style movie-booking frontend built with Next.js 16 (App Router), React 19, TypeScript, and Tailwind CSS. 
 - Talks to a FastAPI backend through a server-side BFF proxy so JWTs stay in an httpOnly cookie and never touch the browser.
   
