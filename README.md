@@ -74,8 +74,8 @@ A lightweight task and routine tracking application designed for habit formation
 ### 📊 GitHub Metrics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=NithinMukka&show_icons=true&theme=nord" alt="Nithin's GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NithinMukka&layout=compact&theme=nord" alt="Top Languages" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NithinMukka&show_icons=true&theme=transparent" alt="Nithin's GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NithinMukka&layout=compact&theme=transparent" alt="Top Languages" height="160" />
 </p>
 
 ---
