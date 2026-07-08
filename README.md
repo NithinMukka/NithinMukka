@@ -1,51 +1,86 @@
 # Hi, I'm Nithin Mukka 👋
 
-I am a software developer with a strong interest in backend development, building scalable web services, and refining my skills in software architecture and version control. I enjoy working with different programming paradigms, ranging from low-level systems in C++ to modern web frameworks in Python and Javacript.
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=3670A0&width=435&lines=Software+Engineer;Undergraduate+Intern+at+Dell;Backend+Developer" alt="Typing SVG" />
+  </a>
+</p>
+
+I am a Software Developer focused on backend architectures, system design, and building efficient web applications. Currently, I am working as an **Undergraduate Intern at Dell Technologies**, collaborating on software engineering, system integration, and service optimization tasks.
 
 ---
 
-### 💻 Tech Stack & Tools
+### 💼 Professional Experience
 
-These are the primary languages and tools I work with across my projects:
-
-- **Languages:** 
-  ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
-  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=cplusplus&logoColor=white)
-- **Focus Areas:** Backend API Development, System Design, Git & Version Control
+**Dell Technologies**  
+*Undergraduate Intern* | *Tech Stack: Python, Web Services, Software Engineering*
+- Collaborating on engineering tasks, system optimization, and backend service components.
+- Working alongside development teams to implement and refine software solutions.
 
 ---
 
-### 🚀 Highlighted Projects
+### 🛠️ Tech Stack & Skills
 
-Here are a few of the projects I've worked on that showcase my development focus:
-
-#### 🎬 [Movie-API](https://github.com/NithinMukka/Movie-API) (Python)
-- A scalable backend system built for movie booking and scheduling management.
-- Focuses on clean routing, data persistence, and API endpoint optimization.
-
-#### 📚 [Movie-booking UI](https://github.com/NithinMukka/Movie-booking-UI) (Next.js)
-- A BookMyShow-style movie-booking frontend built with Next.js 16 (App Router), React 19, TypeScript, and Tailwind CSS. 
-- Talks to a FastAPI backend through a server-side BFF proxy so JWTs stay in an httpOnly cookie and never touch the browser.
-  
-#### 📚 [Library-Management](https://github.com/NithinMukka/Library-Management) (C++)
-- An object-oriented library management system designed to handle inventory, user tracking, and book status.
-- Explores low-level details, memory management, and clean console-based execution.
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <strong>Languages</strong><br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /><br/>
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" /><br/>
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+    </td>
+    <td valign="top" width="33%">
+      <strong>Web & UI</strong><br/><br/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" /><br/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /><br/>
+      <img src="https://img.shields.io/badge/REST_API-0052CC?style=flat-square&logo=api&logoColor=white" alt="REST API" />
+    </td>
+    <td valign="top" width="33%">
+      <strong>Tools & DevOps</strong><br/><br/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" /><br/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /><br/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 Featured Projects
+
+These three repositories showcase my focus on frontend-backend integration, client-side state management, and user productivity tools.
+
+#### 1. 🎬 [movie-booking-ui](https://github.com/NithinMukka/movie-booking-ui)
+An interactive interface designed to manage seats, browse listings, and handle booking requests.
+* **Category:** Frontend / Web Interface
+* **Tech Stack:** ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+* **Key Focus:** Focuses on seamless UI transitions, input validation, and asynchronous integration with backend REST endpoints (like `Movie-API`).
+
+#### 2. 🎓 [student-buddy](https://github.com/NithinMukka/student-buddy)
+A productivity and management companion application designed to help students streamline tasks and keep track of schedules.
+* **Category:** Web Application
+* **Tech Stack:** ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+* **Key Focus:** Implements clear state logic to manage student timetables, assignments, and study metrics in a highly user-friendly manner.
+
+#### 3. ⏱️ [routinecheck](https://github.com/NithinMukka/routinecheck)
+A lightweight task and routine tracking application designed for habit formation and consistency checks.
+* **Category:** Utility / State Management
+* **Tech Stack:** ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+* **Key Focus:** Features local storage persistence or API logging to allow users to consistently verify daily routines with a clean UI.
+
+---
+
+### 📊 GitHub Metrics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=NithinMukka&show_icons=true&theme=transparent" alt="Nithin's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NithinMukka&layout=compact&theme=transparent" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NithinMukka&show_icons=true&theme=nord" alt="Nithin's GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NithinMukka&layout=compact&theme=nord" alt="Top Languages" height="160" />
 </p>
 
 ---
 
-### 📬 Connect with Me
-
-If you'd like to collaborate on backend projects, discuss software design, or just say hello, feel free to reach out:
+### 📬 Let's Connect
 
 - **LinkedIn:** [Nithin Mukka](https://www.linkedin.com/in/nithin-mukka-a92345278/)
 - **Email:** [nithinmukka51234@gmail.com](mailto:nithinmukka51234@gmail.com)
