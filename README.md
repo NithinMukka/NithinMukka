@@ -6,7 +6,7 @@
   </a>
 </p>
 
-I am a Software Developer specializing in backend systems, database performance, and modern web architectures. Currently, I am an **Undergraduate Intern at Dell Technologies**, collaborating on software engineering, API design, and system optimization tasks.
+I am a Software Developer specializing in backend systems, database performance, and modern web architectures. Currently, I am an **Software Engineer at Dell Technologies**, collaborating on software engineering, API design, and system optimization tasks.
 
 ---
 
